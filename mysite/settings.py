@@ -25,7 +25,7 @@ SECRET_KEY = 'p8*vvr4ux79@y48u!6@e()3_d(6s_2tvs0if9*wahye415!c)9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["bombenzombie.pythonanywhere.com"]
+ALLOWED_HOSTS = ["bombenzombie.pythonanywhere.com", '127.0.0.1']
 
 
 # Application definition
